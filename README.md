@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **Mahendharpottipaka/Mahendharpottipaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... mahi000narayan@gmail.com
 - 😄 Pronouns: ... Mai  
 - ⚡ Fun fact: ... Not a Developer.
--->
+
